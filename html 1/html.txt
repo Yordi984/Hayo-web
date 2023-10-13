@@ -1,0 +1,60 @@
+Aquí tienes una lista de algunas etiquetas HTML comunes junto con sus explicaciones en español:
+
+1. **`<!DOCTYPE>`**: Define el tipo de documento y la versión de HTML que se está utilizando en la página.
+
+2. **`<html>`**: La etiqueta raíz que envuelve todo el contenido de la página.
+
+3. **`<head>`**: Contiene metadatos y enlaces a recursos externos como hojas de estilo y scripts.
+
+4. **`<title>`**: Define el título de la página, que se muestra en la pestaña del navegador o en los resultados de búsqueda.
+
+5. **`<meta>`**: Proporciona información sobre el documento, como la codificación de caracteres y la descripción de la página.
+
+6. **`<link>`**: Utilizado para enlazar recursos externos como hojas de estilo CSS.
+
+7. **`<style>`**: Permite incluir estilos CSS directamente en el documento HTML.
+
+8. **`<script>`**: Se utiliza para incluir scripts JavaScript en la página.
+
+9. **`<body>`**: Contiene el contenido visible de la página, como texto, imágenes y otros elementos.
+
+10. **`<header>`**: Define la cabecera de la página o de una sección específica.
+
+11. **`<nav>`**: Utilizado para definir la navegación de la página, como menús de navegación.
+
+12. **`<main>`**: Define el contenido principal de la página.
+
+13. **`<article>`**: Se utiliza para envolver contenido independiente y autónomo, como un artículo de noticias.
+
+14. **`<section>`**: Agrupa contenido relacionado en una sección de la página.
+
+15. **`<aside>`**: Define contenido secundario o complementario, como barras laterales.
+
+16. **`<footer>`**: Contiene la información de pie de página, como los créditos y la información de contacto.
+
+17. **`<a>`**: Crea hipervínculos o enlaces a otras páginas web o recursos.
+
+18. **`<img>`**: Se utiliza para mostrar imágenes en la página.
+
+19. **`<p>`**: Define un párrafo de texto.
+
+20. **`<ul>`**: Crea una lista no ordenada.
+
+21. **`<ol>`**: Crea una lista ordenada.
+
+22. **`<li>`**: Define un elemento de lista dentro de una lista ordenada o no ordenada.
+
+23. **`<div>`**: Un contenedor genérico utilizado para agrupar y dar formato a elementos.
+
+24. **`<span>`**: Un elemento en línea utilizado para aplicar estilo a partes específicas del texto.
+
+25. **`<table>`**: Crea una tabla para organizar datos en filas y columnas.
+
+26. **`<tr>`**: Define una fila en una tabla.
+
+27. **`<td>`**: Define una celda de datos en una tabla.
+
+28. **`<th>`**: Define una celda de encabezado en una tabla.
+
+29. <form> : Utilizado para crear formularios interactivos para recopilar datos del usuario.
+
